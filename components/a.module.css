@@ -1,0 +1,8 @@
+.thea {
+    font-size: 26px;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+a.thea:hover{
+    color:rgb(247, 0, 234);
+}
